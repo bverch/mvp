@@ -1,4 +1,5 @@
 # Project Name #
+CryptoVisualizer
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -18,27 +19,36 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Cryptocurrency Visualizer
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  The target market is people who may be interested in investing in cryptocurrency, or just are curious as to the price/market of cryptocurrencies.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  This website will allow a user to see the value of different cryptocurrencies. The user will be able to query for specific cryptocurrencies, as well as compare different cryptocurrencies against each other. The website will also compare different fiat currency prices to the prices of cryptocurrencies.
 
 ## Problem ##
   > Describe the problem your product solves.
+  Cryptocurrency prices are volatile in nature, and can be very difficult to compare against each other, especially when fiat currency is involved.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  This product will make it easy to compare the different cryptocurrencies against each other and against fiat currencies.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  'Cryptocurrency Visualizer makes it quick and easy to compare crypto prices!'
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Simply loading the page and querying the cryptocurrency that you are interested in will get you the stats of that currency.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  'I wanted to know about BitCoin prices around the world, and this site made it easy to do so!'
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  Check out the site today! It's free!
